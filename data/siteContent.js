@@ -74,6 +74,12 @@ const siteContent = {
             title: "Web3 Security & Smart Contracts",
             profile: "https://lzhou1110.github.io",
             initials: "LZ"
+        },
+      {
+            name: "Hong Jin Kang",
+            title: "Program Analysis",
+            profile: "https://kanghj.github.io",
+            initials: "HK"
         }
     ]
 }; 

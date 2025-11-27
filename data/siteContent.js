@@ -80,6 +80,12 @@ const siteContent = {
             title: "Program Analysis",
             profile: "https://kanghj.github.io",
             initials: "HK"
+      },
+      {
+            name: "Rahul Gopinath",
+            title: "Specification Inference & Fuzzing",
+            profile: "https://rahul.gopinath.org",
+            initials: "RG"
         }
     ]
 }; 
